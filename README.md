@@ -8,7 +8,7 @@ I develop full stack applications using javascript libraries and frameworks, I a
 
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [devColin](http://colin-decorce-profile-next.vercel.app/)
-* ✉️  You can contact me at [decorceColin@gmail.com](mailto:decorceColin@gmail.com)
+* ✉️  You can contact me at [decorcecolin@gmail.com](mailto:decorceColin@gmail.com)
 * 🧠  I'm learning Everything JavaScript
 * 🤝  I'm open to collaborating on interesting Projects
 
